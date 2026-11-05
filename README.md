@@ -5,6 +5,8 @@ I spent 2024–2026 at [Ledger](https://www.ledger.com) working on coin integrat
 
 ### Latest projects
 
+- [obrain](https://github.com/Wozacosta/obrain): wire Obsidian into Claude Code in one command
+- [Awesome Clear Signing](https://github.com/Wozacosta/awesome-clear-signing): a curated guide to readable transaction signing
 - [agentboard](https://agentboard.is): a project board where AI agents post and humans watch
 - [ai-ware](https://aiware.live): how far a developer has moved towards agentic programming
 - [Uchronia](https://uchronia.app): an alternate history generator
