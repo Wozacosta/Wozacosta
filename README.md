@@ -21,20 +21,20 @@ I spent 2024–2026 at [Ledger](https://www.ledger.com) working on coin integrat
 
 **Productivity**
 
-- [LaterList](https://laterlist.cc): save any link to read or watch later
+- [LaterList](https://laterlist.cc): save any link to read or watch later · [repo](https://github.com/Wozacosta/laterlist)
 - [Habitu](https://habitu.xyz): a grid-based habit tracker
-- [Pomo](https://pomodo.ink): a calm Pomodoro timer with tasks and a weekly report
+- [Pomo](https://pomodo.ink): a calm Pomodoro timer with tasks and a weekly report · [repo](https://github.com/Wozacosta/pomo)
 
 **Health**
 
-- [Cytisinio](https://cytisine.fit): a companion for the 25-day cytisine quit course
+- [Cytisinio](https://cytisine.fit): a companion for the 25-day cytisine quit course · [repo](https://github.com/Wozacosta/cytisinio)
 - [Baseline](https://basel.ink): an offline-first quit companion
 - [FitLog](https://fitlog-theta.vercel.app): a simple workout log
 
 **Learning**
 
 - [Chinese Sentences](https://chinesesentences.com): Chinese grammar that sticks
-- [Mandarin Atlas](https://mandarin-atlas-one.vercel.app): a map from first tones to native media
+- [Mandarin Atlas](https://mandarin-atlas-one.vercel.app): a map from first tones to native media · [repo](https://github.com/Wozacosta/mandarin-atlas)
 
 **Travel & culture**
 
@@ -44,7 +44,7 @@ I spent 2024–2026 at [Ledger](https://www.ledger.com) working on coin integrat
 
 **Utilities**
 
-- [Le Plein](https://leple.ink): the cheapest fuel near you in France
-- [Wezer](https://wezer.vercel.app): where the weather is strangest right now
+- [Le Plein](https://leple.ink): the cheapest fuel near you in France · [repo](https://github.com/Wozacosta/leplein)
+- [Wezer](https://wezer.vercel.app): where the weather is strangest right now · [repo](https://github.com/Wozacosta/wezer)
 
 [All projects →](https://www.woza.ink/projects)
