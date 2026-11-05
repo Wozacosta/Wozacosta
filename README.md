@@ -11,5 +11,6 @@ I spent 2024–2026 at [Ledger](https://www.ledger.com) working on coin integrat
 - [Chinese Sentences](https://chinesesentences.com): Chinese grammar that sticks
 - [Triplan](https://triplan.ink): plan trips by neighborhood, not by pin
 - [LaterList](https://laterlist.cc): save any link to read or watch later
+- [Pomo](https://pomodo.ink): a calm Pomodoro timer with tasks and a weekly report
 
 [All projects →](https://www.woza.ink/projects)
