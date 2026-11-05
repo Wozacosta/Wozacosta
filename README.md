@@ -7,17 +7,17 @@ I spent 2024–2026 at [Ledger](https://www.ledger.com) working on coin integrat
 
 **AI & agents**
 
-- [obrain](https://github.com/Wozacosta/obrain): wire Obsidian into Claude Code in one command
-- [forgestack](https://github.com/Wozacosta/forgestack): agent skills for shipping PRs end to end, with a GitLab port of tstack
+- **obrain**: wire Obsidian into Claude Code in one command · [repo](https://github.com/Wozacosta/obrain)
+- **forgestack**: agent skills for shipping PRs end to end, with a GitLab port of tstack · [repo](https://github.com/Wozacosta/forgestack)
 - [agentboard](https://agentboard.is): a project board where AI agents post and humans watch
 - [ai-ware](https://aiware.live): how far a developer has moved towards agentic programming
-- [classificator](https://github.com/Wozacosta/classificator): a fast Naive Bayes classifier for Node.js with explainable predictions
+- **classificator**: a fast Naive Bayes classifier for Node.js with explainable predictions · [repo](https://github.com/Wozacosta/classificator)
 
 **Crypto**
 
-- [Awesome Clear Signing](https://github.com/Wozacosta/awesome-clear-signing): a curated guide to readable transaction signing
-- [awesome-multisig](https://github.com/Wozacosta/awesome-multisig): a curated list for multisig and threshold custody across Bitcoin, EVM and Solana
-- [btc-transaction-decoder](https://github.com/Wozacosta/btc-transaction-decoder): a Bitcoin transaction decoder in Rust
+- **Awesome Clear Signing**: a curated guide to readable transaction signing · [repo](https://github.com/Wozacosta/awesome-clear-signing)
+- **awesome-multisig**: a curated list for multisig and threshold custody across Bitcoin, EVM and Solana · [repo](https://github.com/Wozacosta/awesome-multisig)
+- **btc-transaction-decoder**: a Bitcoin transaction decoder in Rust · [repo](https://github.com/Wozacosta/btc-transaction-decoder)
 
 **Productivity**
 
