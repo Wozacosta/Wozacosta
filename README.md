@@ -39,6 +39,7 @@ I spent 2024–2026 at [Ledger](https://www.ledger.com) working on coin integrat
 **Travel & culture**
 
 - [Triplan](https://triplan.ink): plan trips by neighborhood, not by pin
+- [Tiny Paris](https://tiny.paris): Paris as a living isometric toy city
 - [Uchronia](https://uchronia.app): an alternate history generator
 - [Guide To](https://guideto.vercel.app): photo and audio guides to music scenes
 
